@@ -34,10 +34,8 @@ OpenCV (pip install opencv-python)
 
 Installation & Setup
 
-Clone this repository:
 
-git clone https://github.com/yourusername/Steganography-Project.git
-cd Steganography-Project
+ Steganography-Project
 
 Install dependencies:
 
